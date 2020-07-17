@@ -1,0 +1,20 @@
+{
+  "name": "node.js_004",
+  "version": "1.0.0",
+  "description": "Init'ing a project",
+  "main": "index.js",
+  "start": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennerg2/Node.js_004.git"
+  },
+  "author": "Ben Gurrola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennerg2/Node.js_004/issues"
+  },
+  "homepage": "https://github.com/bennerg2/Node.js_004#readme"
+}
